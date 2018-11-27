@@ -45,6 +45,7 @@ editing
 `d$`       Delete until end of the line 
 `D`        See d$, delete until end of the line  
 `dd`       delete whole line
+
 `dib`      Delete contents in parenthesis '(' ')' block (e.g. function args)
 `diB`      Delete inner '{' '}' block
 `daB`      Delete a '{' '}' block
