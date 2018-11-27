@@ -37,21 +37,21 @@
 editing
 
 `x         Delete char UNDER cursor
-`X` <!--maj-->  Delete char BEFORE cursor
-`x`         Delete the next # chars. starting from char under cursor
-`dw`        Delete next word
-`dW`         Delete UP TO the next word
-`d^`         Delete up unto the beginning of the line
-`d$`         Delete until end of the line 
-`D`          See d$, delete until end of the line  
-`dd`         delete whole line
-`dib`        Delete contents in parenthesis '(' ')' block (e.g. function args)
-`diB`        Delete inner '{' '}' block
-`daB`        Delete a '{' '}' block
-`das`        Delete a senctence
-`diw`        Delete word under cursor
-`df<c>`      Delete until next occurence of <c> (char) found (including <c>) [in single line]
- dt<c>`      Delete until next occurence of <c> (char) found (without <c>!!!) [in single line]
+`X`        Delete char BEFORE cursor
+`x`        Delete the next # chars. starting from char under cursor
+`dw`       Delete next word
+`dW`       Delete UP TO the next word
+`d^`       Delete up unto the beginning of the line
+`d$`       Delete until end of the line 
+`D`        See d$, delete until end of the line  
+`dd`       delete whole line
+`dib`      Delete contents in parenthesis '(' ')' block (e.g. function args)
+`diB`      Delete inner '{' '}' block
+`daB`      Delete a '{' '}' block
+`das`      Delete a senctence
+`diw`      Delete word under cursor
+`df<c>`    Delete until next occurence of <c> (char) found (including <c>) [in single line]
+ dt<c>`    Delete until next occurence of <c> (char) found (without <c>!!!) [in single line]
 
 
 
